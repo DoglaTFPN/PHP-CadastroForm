@@ -56,7 +56,7 @@
 			font-size: 12px;
 			color: rgb(225, 147, 220);
 		}
-		/*#submit{
+		#submit{
 			background-color: #ffd700;
 			width: 100%;
 			border: none;
@@ -69,7 +69,7 @@
 		}
 		#submit:hover{
             background-color: #ffb515;
-        }*/
+        }
 	</style>
 </head>
 <body>
